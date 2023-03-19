@@ -11,7 +11,5 @@ My name is Ally, a year nine student from Australia. As I am only in year nine, 
 Recently, my brother, father and myself have created an idea for a video game which we hope to start making soon in Unity! 
 
 
-(Credit to my dog Millie for being my profile picture!)
-
 I hope you enjoy looking at my projects! Stay cool, chucklenuts ヾ(≧▽≦*)o
 
