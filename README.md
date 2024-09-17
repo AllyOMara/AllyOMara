@@ -1,9 +1,9 @@
-### Hello there! I'm Ally, welcome to my profile!
+### Hello there! I'm Ally, welcome to my profile!<br><br>
 
 
-Number of people who have visited my profile so far is...
+Number of people who have visited my profile so far is...<br>
 
-![Visitor Count](https://profile-counter.glitch.me/{AllyOMara}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{AllyOMara}/count.svg)<br><br><br>
 
 
 ⭒.˳⁺⁎˚ ꒰ఎ (Hello there everyone!!) ໒꒱ ˚⁎⁺˳.⭒ <br>
