@@ -6,11 +6,15 @@ Number of people who have visited my profile so far is...
 ![Visitor Count](https://profile-counter.glitch.me/{AllyOMara}/count.svg)
 
 
-My name is Ally, a year ten student from Australia. As I am only in year ten, I am rather new to the world of coding, as I started only a few years ago on Swift. Since then, I have started learning other languages such as Python, Scratch and C++. As of right now, I am learning and coding in Python (it was the easiest so I thought I might as well start with that), but would love to learn new languages as I get better such as JavaScript, C, C#, etc. 
-Additionally, I have started a club for coding at my school :D
-
-Recently, my brother, father and myself have created an idea for a video game which we hope to start making soon in Unity, which I have started learning! 
-
+⭒.˳⁺⁎˚ ꒰ఎ (Hello there everyone!!) ໒꒱ ˚⁎⁺˳.⭒
+-͟͟͞☆ **My name is Ally and I'm a year ten student from Australia >:P**
+Here's some fun little facts about me!
+▷ I started learning how to code a couple years ago on Swift.
+▷ So far, I have been learning other languages, namely Python, and have been learning Unity.
+▷ I started my school's first coding club in 2024!!
+▷ I am 5′0.5″ (one of the shortest in my grade, naturally).
+▷ I play a lot of video games including Call of Duty (Modern Warfare and Black Ops) and TF2!
+▷ At school, my favourite subjects are Maths, Biology and Philosophy.
+:white_heart:-(o゜▽゜)o☆-:white_heart:
 
 I hope you enjoy looking at my projects! Stay cool, everyone ヾ(≧▽≦*)o
-
