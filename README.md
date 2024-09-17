@@ -6,7 +6,7 @@ Number of people who have visited my profile so far is...
 ![Visitor Count](https://profile-counter.glitch.me/{AllyOMara}/count.svg)
 
 
-⭒.˳⁺⁎˚ ꒰ఎ (Hello there everyone!!) ໒꒱ ˚⁎⁺˳.⭒
+⭒.˳⁺⁎˚ ꒰ఎ (Hello there everyone!!) ໒꒱ ˚⁎⁺˳.⭒/n
 -͟͟͞☆ **My name is Ally and I'm a year ten student from Australia >:P**
 Here's some fun little facts about me!
 ▷ I started learning how to code a couple years ago on Swift.
