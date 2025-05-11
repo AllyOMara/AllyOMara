@@ -12,7 +12,7 @@ Number of people who have visited my profile so far is...<br>
 🪼 I have been learning other languages, namely Python and C# (for Unity).<br>
 🏫 I founded my school's coding club in 2024.<br>
 🖥️ I play some video games including CS2 and TF2.<br>
-📜 I read a lot of books - some of my favourites are 1984 and the Thrawn Trilogy.<br>
+📜 I read a lot of books - some of my favourites are 1984 and Orwell's Essays.<br>
 ⚛️ At school, my favourite subjects are Maths and Physics.<br>
 :white_heart:-(o゜▽゜)o☆-:white_heart:<br><br>
 
