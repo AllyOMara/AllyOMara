@@ -1,7 +1,7 @@
 ### ⭒.˳⁺⁎˚ ꒰ఎ (Hello there! Welcome to my profile!) ໒꒱ ˚⁎⁺˳.⭒ <br>
 
 
-Number of people who have visited my profile so far is...<br>
+The number of people who have visited my profile so far is...<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{AllyOMara}/count.svg)<br><br><br>
 
