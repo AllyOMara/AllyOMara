@@ -5,6 +5,6 @@
 🪼 I have been learning other languages, namely Python and C# (for Unity).<br>
 🏫 I founded my school's coding club in 2024.<br>
 🖥️ I play video games such as CS2 and TF2.<br>
-⚛️ At school, my favourite subjects are Maths and Physics.<br>
+⚛️ At school, my favourite subject is Physics.<br>
 
 Happy coding!! ヾ(≧▽≦*)o<br>
