@@ -2,7 +2,7 @@
 
 -͟͟͞☆ I'm Ally, a year eleven student from Australia.<br>
 👩‍💻 I started learning how to code a few years ago on Swift.<br>
-🪼 I have been learning other languages, namely Python, C#, and C++.<br>
+🐍 I have been learning other languages, namely Python, C#, and C++.<br>
 🏫 I founded St Catherine's School's coding club in 2024.<br>
 🖥️ I play video games such as CS2 and TF2.<br>
 ⚛️ At school, my favourite subject is Physics.<br>
