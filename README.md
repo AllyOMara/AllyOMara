@@ -19,6 +19,6 @@ A few things about me:<br>
 | [Coding-Club](https://github.com/AllyOMara/Coding-Club) | Solutions to exercises from my Coding Club. |
 | [Stanford-Algorithms](https://github.com/AllyOMara/Stanford-Algorithms) | Solutions to select programming assignments. |
 
-<br
+<br>
 
 Happy coding!! ヾ(≧▽≦*)o<br>
