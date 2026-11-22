@@ -15,10 +15,10 @@ A few things about me:<br>
 
 | ☆ Project Name ☆ | ♡ Description ♡ |
 | --- | ---- |
+| [PPP-CPP](https://github.com/AllyOMara/PPP-CPP/tree/main) | Selected exercises from Programming Principles and Practice Using C++. |
 | [Pong-Game](https://github.com/AllyOMara/Pong-Game) | Classic Pong game recreated in Pygame. |
 | [Coding-Club](https://github.com/AllyOMara/Coding-Club) | Solutions to exercises from my Coding Club. |
 | [Stanford-Algorithms](https://github.com/AllyOMara/Stanford-Algorithms) | Solutions to select programming assignments. |
-| [PPP-CPP](https://github.com/AllyOMara/PPP-CPP/tree/main) | Selected exercises from Programming Principles and Practice Using C++. |
 
 
 
