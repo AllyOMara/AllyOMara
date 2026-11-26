@@ -19,8 +19,10 @@ A few things about me:<br>
 | [Pong-Game](https://github.com/AllyOMara/Pong-Game) | Classic Pong game recreated in Pygame. |
 | [Coding-Club](https://github.com/AllyOMara/Coding-Club) | Solutions to exercises from my Coding Club. |
 | [Stanford-Algorithms](https://github.com/AllyOMara/Stanford-Algorithms) | Solutions to select programming assignments. |
+<br>
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllyOMara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
 <br>
 
